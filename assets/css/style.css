@@ -1,0 +1,57 @@
+
+  body {
+  		font-family: 'Patrick Hand', cursive;
+  }
+
+  .container{
+    background-image: url(../../bg.png)
+  }
+
+  h1 {
+    font-size: 3em;
+    text-align: center;
+    margin: 1em auto;
+  }
+
+  button{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.2em;
+    margin: 0.5em;
+   
+  }
+  #buttonsArea{
+     text-align: center;
+  }
+
+  form {
+    text-align: center;
+  }
+
+  label {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: white;
+  }
+
+  input {
+    margin: 1.5em 0.5em;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.3em
+
+  }
+
+  #feelingToday {
+    font-size: 2em;
+    margin: 1.5em;
+    text-align: center;
+
+  }
+
+  .GIF {
+    text-align: center;
+  }
+
+  .eachGIF {
+    margin: 1em 1em 2em 2em;
+  }
